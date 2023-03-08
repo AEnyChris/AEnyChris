@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AEnyChris
-- 👀 I’m interested in python development, data engineering, ML/AI and networking
-- 🌱 I’m currently learning data analysis with python, 
-- 💞️ I’m looking to collaborate on data analysis/science or ML/AI projects
+- 👀 I’m interested in python development, data engineering
+- 🌱 I’m currently learning data engineering with python, 
+- 💞️ I’m looking to collaborate on data engineering/science or ML/AI projects
 - 📫 How to reach me ...email: enyonechristian@gmail.com
 
 <!---
