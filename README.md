@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AEnyChris
-- 👀 I’m interested in python development, data engineering
-- 🌱 I’m currently learning data engineering with python, 
+- 👀 I’m interested in Python development, data engineering
+- 🌱 I’m currently learning data engineering with Python, 
 - 💞️ I’m looking to collaborate on data engineering/science or ML/AI projects
 - 📫 How to reach me ...email: enyonechristian@gmail.com
 
